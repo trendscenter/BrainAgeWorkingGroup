@@ -1,0 +1,6 @@
+[submodule "SharedModels/LSTM_BrainAge"]
+	path = SharedModels/LSTM_BrainAge
+	url = git@github.com:bbradt/LSTM_BrainAge.git
+[submodule "SharedModels/U-NET-for-LocalBrainAge-prediction"]
+	path = SharedModels/U-NET-for-LocalBrainAge-prediction
+	url = git@github.com:SebastianPopescu/U-NET-for-LocalBrainAge-prediction.git
