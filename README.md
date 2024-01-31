@@ -37,3 +37,11 @@ To pull updates for ALL modules, run the following:
 ```bash
 git submodule update --recursive --remote
 ```
+
+## Adding a Github Repository
+
+To add a github repository to this one, use the following command
+
+```bash
+git submodule add github_url
+```
