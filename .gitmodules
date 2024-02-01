@@ -4,3 +4,6 @@
 [submodule "SharedModels/U-NET-for-LocalBrainAge-prediction"]
 	path = SharedModels/U-NET-for-LocalBrainAge-prediction
 	url = git@github.com:SebastianPopescu/U-NET-for-LocalBrainAge-prediction.git
+[submodule "SharedModels/brain_age_composite_loss"]
+	path = SharedModels/brain_age_composite_loss
+	url = https://github.com/ygaotong11/brain_age_composite_loss
